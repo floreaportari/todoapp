@@ -3,7 +3,7 @@ const addBtn = document.querySelector("#addBtn");
 const inputText = document.querySelector("#inputText");
 const todoList = document.querySelector(".todo-list");
 
-//adding event listeners
+//added event listeners
 addBtn.addEventListener("click", addToDo);
 
 //functions
