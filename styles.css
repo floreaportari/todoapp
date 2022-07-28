@@ -11,16 +11,16 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* min-height: 100vh; */
+  min-height: 100vh;
 }
 
 .main {
   text-align: center;
-  margin-top: 5rem;
+  margin: 5rem 2rem 3rem;
 }
 
 h1 {
-  font-size: 3.7rem;
+  font-size: 3.5rem;
 }
 
 label {
